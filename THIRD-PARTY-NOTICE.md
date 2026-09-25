@@ -62,7 +62,7 @@
 如果你在作品中引用本仓库：
 
 ```
-FDE：前沿部署工程师工作台（AI 落地手册）
+FDE 前沿部署工程师 Skill
 部分内容改写自 fde-learning (https://github.com/luoboask/fde-learning, MIT)
 ```
 
