@@ -39,8 +39,8 @@
 | **Codex** | `~/.codex/skills/fde/` |
 
 ```bash
-git clone <this-repo> fde
-mkdir -p ~/.workbuddy/skills && cp -R fde ~/.workbuddy/skills/
+git clone https://github.com/GodMaking/fde.git
+cp -R fde ~/.workbuddy/skills/
 ```
 
 装完**新开一个会话**才对生效（技能的清单在会话开始时加载一次）。
